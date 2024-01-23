@@ -6,7 +6,7 @@
 
 GPSモジュールAE-GYSFDMAXB:
 AE-GYSFDMAXBが2024年の時点で入手が不可能になってしまいました。
-類似品にAE-GNSS-EXTANTとGT-902PMGGがあり、MyGPSライブラリをアップデート(https://github.com/UECS/MyGPS)することで利用は可能でしたがこれらの在庫も秋月電子から無くなりました。
+類似品にAE-GNSS-EXTANTとGT-902PMGGがあり、MyGPSライブラリをアップデート(https://github.com/UECS/MyGPS) することで利用は可能でしたがこれらの在庫も秋月電子から無くなりました。
 そのため、GPS無しで動作するプログラムを公開しています。ただしGPS無しでの動作はSDカード機能も使用できなくなります。
 
 WDT用IC:
